@@ -8,7 +8,7 @@ Projetar uma aplicação web.
 
 #### Etapas
 
-- [] briefing
-- [] wireframe
-- [] modelo
-- [] mvp
+- [ ] briefing
+- [ ] wireframe
+- [ ] modelo
+- [ ] mvp
