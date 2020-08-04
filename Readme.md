@@ -4,7 +4,7 @@ Projetar uma aplicação web.
 
 #### Tecnologias
 
-- [] Vuejs
+- Vuejs
 
 #### Etapas
 
